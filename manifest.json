@@ -1,0 +1,13 @@
+{
+  "name": "Fuck A Zoomer",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "description": "Fuck every single wheel event handler in the goddamned world.",
+  "homepage_url": "http://google.com",
+  "content_scripts": [
+    {
+      "js": ["scripts/fuckawheel.js"],
+      "matches": ["http://*/*", "https://*/*"]
+    }
+  ]
+}
