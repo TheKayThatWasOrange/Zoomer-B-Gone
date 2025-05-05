@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "manifest_version": 3,
   "description": "Fuck every single wheel event handler in the goddamned world.",
-  "homepage_url": "http://google.com",
+  "homepage_url": "https://github.com/TheKayThatWasOrange/Zoomer-B-Gone/tree/0.0.1",
   "content_scripts": [
     {
       "js": ["scripts/fuckazoomer.js"],
