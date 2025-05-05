@@ -6,7 +6,7 @@
   "homepage_url": "http://google.com",
   "content_scripts": [
     {
-      "js": ["scripts/fuckawheel.js"],
+      "js": ["scripts/fuckazoomer.js"],
       "matches": ["http://*/*", "https://*/*"]
     }
   ]
